@@ -1,0 +1,7 @@
+{
+    "require": {
+        "jonnyw/php-phantomjs": "^4.6",
+        "pdfcrowd/pdfcrowd": "^5.8",
+        "phpoffice/phppresentation": "^1.0"
+    }
+}
